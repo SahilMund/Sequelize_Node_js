@@ -1,5 +1,7 @@
 
-<img src="https://www.apeironsoftware.com/wp-content/uploads/2019/07/nodemysql.jpg"  alt="" align="center">
+<img  src="https://www.apeironsoftware.com/wp-content/uploads/2019/07/nodemysql.jpg" height="300px" align="center" alt="" />
+
+[Follow This For Documentation](https://ipenywis.com/learn-sequelize-orm-on-node-js-with-mysql-from-scratch-in-one-video-61a483ecfa45)
 ### What is Sequelize ?
 Sequelize is a promise-based ORM(Object Relational Mapping) for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite, and MSSQL plus some cool features like transactions and eager-loading.
 
@@ -75,5 +77,3 @@ sequelize migration:create --name create_tweets_table
 ```
 sequelize db:migrate 
 ```
-
-[Follow This For Documentation](https://ipenywis.com/learn-sequelize-orm-on-node-js-with-mysql-from-scratch-in-one-video-61a483ecfa45)
