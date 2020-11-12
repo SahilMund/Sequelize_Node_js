@@ -35,7 +35,7 @@ We save the CLI globally because you will be using on more than one project and 
 ```cmd
 sequelize init
 ```
-## Projecxt Setup
+## Project Setup
 
 ### Connecting to Database
 First, we need to open connection steam between Sequelize and the running MySQL Deamon.
