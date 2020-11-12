@@ -20,6 +20,7 @@ app.use(express.static(rootPath));
 
 // DB connection
 require("./src/database/connection");
+require("./src/bootstrap")();
 
 router.use((err, req, res, next) => {
   if (err) {
