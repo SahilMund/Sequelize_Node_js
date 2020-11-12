@@ -1,0 +1,21 @@
+{
+  "name": "sequalize-nodejs",
+  "version": "1.0.0",
+  "description": "Sequelize is a promise-based ORM(Object Relational Mapping) for Node.js v4 and up. It supports the dialects PostgreSQL, MySQL, SQLite, and MSSQL plus some cool features like transactions and eager-loading.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node run server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "pug": "^3.0.0",
+    "sequelize": "^6.3.5"
+  }
+}
