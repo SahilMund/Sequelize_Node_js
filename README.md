@@ -1,5 +1,5 @@
 
-<img  src="https://www.apeironsoftware.com/wp-content/uploads/2019/07/nodemysql.jpg" height="300px" align="center" alt="" />
+<img  src="https://www.apeironsoftware.com/wp-content/uploads/2019/07/nodemysql.jpg" height="300px" alt="" />
 
 [Follow This For Documentation](https://ipenywis.com/learn-sequelize-orm-on-node-js-with-mysql-from-scratch-in-one-video-61a483ecfa45)
 ### What is Sequelize ?
